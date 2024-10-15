@@ -1,2 +1,2 @@
 seond command
-third command
+third command is verified
