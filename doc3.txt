@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 my second comans
 my third command is verfied
+=======
+my second comans verfied
+>>>>>>> 9ce05e3026fb2f29a89a2b36936d6dcfa2c02cd8

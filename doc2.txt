@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+second commit my second commit
+=======
 seond command
 third command is verified
+>>>>>>> 0ace41af6413f81a2914512328f46e9df07a0865
